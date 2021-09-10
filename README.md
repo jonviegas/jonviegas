@@ -1,5 +1,3 @@
-# Jonathan Viegas
----
 #### Hi there :hand: 
 
 I'm **@jonviegas**, entrepreneur, administration and finance professional, enthusiast and programming student. Dreaming of starting a career in technology.
