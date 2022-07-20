@@ -1,6 +1,6 @@
 ## Hi there :hand: 
 
-I'm **@jonviegas**, developer, specializing in **Java**. Student of Systems Analysis and Development. Worked for years in the administrative and financial areas. Ready to work on big projects and help teams achieve their results. 
+I'm **@jonviegas**, developer, specializing in **Java**. Student of System Analysis. Worked for years in the administrative and financial areas. Ready to work on big projects and help teams achieve their results. 
 
 - ### :computer_mouse: [Portfolio](https://jonviegas.github.io/)
 
